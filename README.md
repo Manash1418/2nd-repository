@@ -1,4 +1,4 @@
 # 2nd-repository
 this is my second repository
 <br>
-author - manash
+author - manash harsh
